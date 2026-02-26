@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá, eu sou Wilson Raposo Mbala 👋
 
-<!--
-**WilsonRaposo017/WilsonRaposo017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Técnico de Informática | Automação e Desenvolvimento**
+ Apaixonado por Automação, Desenvolvimento e Estudos de Sistemas.
+Busco conhecimento, prática e resultados. Não sigo expectativas, apenas entrego competência e evolução constante.
+🎯 Foco: Aprender, evoluir e automatizar processos.
 
-Here are some ideas to get you started:
+> "Eu faço o que quero, quando quero. Quem observa só vê minha disciplina e resultados."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Áreas de Atuação (Aprendendo).
+- 💻 Desenvolvimento de software: Java, Python, ferramentas e automações
+- 🖥 Administração de sistemas e servidores Linux
+- ⚡ Automação de processos e soluções práticas
+- 📊 Estruturação de projetos estratégicos e tecnológicos
+
+---
+
+## Filosofia
+- Aprender sempre, aplicar imediatamente, evoluir continuamente  
+- Priorizar resultados tangíveis em qualquer projeto  
+- Transformar conhecimento em vantagem e autonomia
+
+---
+
+## Projetos em Destaque
+- **Automação com Batch Script** – Rotinas e scripts para gerenciar sistemas complexos  
+- **Projetos Java** – Aplicações de estudo e desenvolvimento real  
+- **Creativos Design Studio** – Marketing, design e soluções visuais
+
+---
+
+## Contato
+- WhatsApp Business: [link](#) 
+- LinkedIn: [link](#)
