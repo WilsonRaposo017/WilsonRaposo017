@@ -1,8 +1,8 @@
 # Olá, eu sou Wilson Raposo Mbala 👋
 
-**Técnico de Informática | Automação e Desenvolvimento**
- Apaixonado por Automação, Desenvolvimento e Estudos de Sistemas.
-Busco conhecimento, prática e resultados. Não sigo expectativas, apenas entrego competência e evolução constante.
+**Técnico de Informática | Automação e Desenvolvimento**_
+Apaixonado por Automação, Desenvolvimento e Estudos de Sistemas._
+Busco conhecimento, prática e resultados. Não sigo expectativas, apenas entrego competência e evolução constante._
 🎯 Foco: Aprender, evoluir e automatizar processos.
 
 > "Eu faço o que quero, quando quero. Quem observa só vê minha disciplina e resultados."
