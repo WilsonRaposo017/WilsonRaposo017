@@ -1,77 +1,69 @@
-<!-- Perfil profissional de Wilson Raposo Mbala -->
 <div align="center">
 
 # Wilson Raposo Mbala
 
-### Técnico de Informática · Desenvolvimento de Software · Automação
+**Técnico de Informática | Desenvolvimento de Software | Soluções Digitais**
 
-**Transformo problemas práticos em soluções digitais, enquanto continuo a aprender, construir e evoluir.**
+Angola
 
-[![GitHub](https://img.shields.io/badge/GitHub-WilsonRaposo017-111827?style=for-the-badge&logo=github)](https://github.com/WilsonRaposo017)
-[![Location](https://img.shields.io/badge/Localização-Angola-0e7490?style=for-the-badge)](https://www.google.com/maps/search/?api=1&query=Luanda%2C%20Angola)
+[GitHub](https://github.com/WilsonRaposo017) · [Criativos Digital Solutions](https://web.facebook.com/CriativosDigitalSolutions/)
 
 </div>
 
 ---
 
-## Sobre mim
+## Perfil
 
-Sou Técnico de Informática e estudante da área de Computação, com interesse em desenvolvimento de software, tecnologias web, administração de sistemas e automação.
+Sou Técnico de Informática e estudante de Ciência da Computação. Tenho interesse em desenvolvimento de software, tecnologias web, suporte técnico e automação.
 
-Gosto de compreender como a tecnologia funciona e aplicá-la na resolução de problemas reais. Neste perfil partilho projetos de aprendizagem, experiências práticas e soluções que vou construindo.
+Uso projectos próprios e exercícios práticos para consolidar conhecimentos, experimentar ferramentas e desenvolver soluções para problemas concretos. Neste perfil procuro mostrar trabalho real, explicar o que cada projecto faz e documentar também o que ainda está em desenvolvimento.
 
-Atualmente, estou a desenvolver competências de forma progressiva — valorizo código funcional, documentação clara, testes e evolução consistente acima de listas extensas de tecnologias.
+## Competências e áreas de interesse
 
-## Áreas de interesse
+- **Suporte e sistemas:** diagnóstico, configuração e manutenção de ambientes informáticos.
+- **Desenvolvimento web:** HTML, CSS, JavaScript e exploração de frameworks modernas.
+- **Programação:** fundamentos de lógica e prática com Java e Python.
+- **Automação:** scripts e ferramentas para simplificar tarefas.
+- **Ferramentas de desenvolvimento:** Git, GitHub e ambientes de desenvolvimento.
 
-- **Desenvolvimento:** fundamentos de programação e construção de aplicações.
-- **Web:** HTML, CSS e JavaScript; interfaces e experiências digitais.
-- **Sistemas:** suporte técnico, configuração e administração de ambientes informáticos.
-- **Automação:** scripts e melhoria de tarefas repetitivas.
-- **Soluções digitais:** ferramentas que ajudam pessoas e pequenos negócios a trabalhar melhor.
+As tecnologias listadas representam ferramentas que estudo ou utilizo em experiências práticas. Não significam, por si só, domínio profissional avançado.
 
-## Tecnologias e ferramentas
+## Projectos em destaque
 
-| Área | Tecnologias / ferramentas |
-|---|---|
-| Web | HTML5, CSS3, JavaScript |
-| Programação | Java, Python |
-| Sistemas | Windows, Linux |
-| Automação | Batch / scripts |
-| Colaboração | Git, GitHub |
+### Criativos Manager
+Aplicação de gestão comercial em desenvolvimento. Existe uma versão local experimental em HTML, CSS e JavaScript, com dados guardados no navegador. O produto mais amplo continua em evolução.
 
-*Esta lista representa tecnologias com que estudo ou trabalho em projetos. Não significa domínio avançado de todas elas.*
+[Ver repositório de trabalho](https://github.com/WilsonRaposo017/projetos)
 
-## Projetos selecionados
+### KFC Maculusso
+Demonstração de presença web desenvolvida como exercício prático. O projecto utiliza uma stack web moderna baseada em React e TypeScript.
 
-### [Criativos Manager](https://github.com/WilsonRaposo017/Criativos_Manager)
-Projeto em desenvolvimento para organização comercial e financeira de pequenos negócios, com foco em documentos, clientes, pagamentos e gestão. O repositório está numa fase inicial; funcionalidades ainda precisam de ser implementadas e validadas.
+[Ver repositório](https://github.com/WilsonRaposo017/kfcmaculusso) · [Abrir demonstração](https://kfcmaculusso.lovable.app)
 
-### [KFC Maculusso — demonstração web](https://github.com/WilsonRaposo017/kfcmaculusso)
-Experiência de criação de uma presença web demonstrativa, desenvolvida com apoio de ferramentas de construção visual.  
-[Ver demonstração online](https://kfcmaculusso.lovable.app)
+Esta é uma demonstração independente e não representa um site oficial nem uma afiliação com a marca KFC.
 
-### [HTML5 e CSS3](https://github.com/WilsonRaposo017/html5-e-css3)
-Repositório de aprendizagem e prática de fundamentos de desenvolvimento front-end.
+### Laboratório de projectos
+Reúne experiências de desenvolvimento web, exercícios de programação e projectos pessoais de diferentes fases.
 
-## O que estou a desenvolver
+[Explorar repositório](https://github.com/WilsonRaposo017/projetos)
 
-- Consolidar fundamentos de programação e estruturas de dados.
-- Construir aplicações pequenas, completas e documentadas.
-- Melhorar a qualidade do código, testes e organização dos projetos.
-- Aplicar tecnologia a problemas concretos no contexto angolano.
+### HTML e CSS
+Espaço de estudo para praticar estruturação, semântica e apresentação de páginas web.
 
-## Contacto e colaboração
+[Ver repositório](https://github.com/WilsonRaposo017/html5-e-css3)
 
-Estou aberto a colaborar em projetos de aprendizagem, desenvolvimento web, suporte técnico e soluções digitais.
+## Formação e evolução
 
-- **GitHub:** [WilsonRaposo017](https://github.com/WilsonRaposo017)
-- **Organização / atividade:** [Criativos Digital Solutions](https://web.facebook.com/CriativosDigitalSolutions/)
+Estudante de Ciência da Computação no IMETRO. Estou a reforçar os fundamentos de programação, arquitectura de computadores, matemática discreta e desenvolvimento de aplicações.
+
+## Colaboração
+
+Tenho interesse em projectos práticos nas áreas de suporte informático, desenvolvimento web e soluções digitais. Valorizo comunicação clara, aprendizagem contínua e documentação honesta do trabalho realizado.
 
 ---
 
 <div align="center">
 
-*Aprender com método. Construir com intenção. Entregar valor.*
+**Aprender com método. Construir com intenção. Resolver problemas reais.**
 
 </div>
