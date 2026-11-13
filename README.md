@@ -2,7 +2,7 @@
 
 # Wilson Raposo Mbala
 
-## **Técnico de Informática | Desenvolvimento de Software | Soluções Digitais**
+ **Técnico de Informática | Desenvolvimento de Software | Soluções Digitais**
 
 Angola
 
