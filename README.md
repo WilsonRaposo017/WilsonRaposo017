@@ -1,75 +1,74 @@
 <div align="center">
 
-# Wilson Raposo Mbala
+<img src="assets/github-banner.svg" alt="Wilson Raposo Mbala — Técnico de Informática e Desenvolvimento Web" width="100%" />
 
-### IT Support · Web Development · Digital Solutions
-
-Angola 🇦🇴
-
-[GitHub](https://github.com/WilsonRaposo017) · [Criativos Digital Solutions](https://web.facebook.com/CriativosDigitalSolutions/) · [Email](mailto:criativo.solution@gmail.com)
+**Angola 🇦🇴** · [GitHub](https://github.com/WilsonRaposo017) · [Criativos Digital Solutions](https://web.facebook.com/CriativosDigitalSolutions/) · [Email](mailto:criativo.solution@gmail.com)
 
 </div>
 
 ---
 
-## About
+## Sobre mim
 
-I’m an IT technician building practical experience in software development and digital solutions. My work sits between technical support, web interfaces and tools that help people and small businesses organise their work.
+Sou Técnico de Informática e tenho interesse no desenvolvimento de software e na criação de soluções digitais úteis. Trabalho sobretudo entre o suporte técnico, o desenvolvimento web e ferramentas que ajudam pessoas e pequenos negócios a organizar melhor o seu trabalho.
 
-I use this profile to share projects, experiments and things I’m learning. I value clear documentation, useful features and honest project status over flashy demos.
+Este perfil reúne projectos, experiências práticas e estudos. Procuro documentar o que construo com clareza, indicar o estado real de cada projecto e melhorar a qualidade do código à medida que aprendo.
 
-## What I work with
+## Competências e ferramentas
 
-| Area | Tools and technologies |
+| Área | Tecnologias e ferramentas |
 |---|---|
-| Web development | HTML5, CSS3, JavaScript, React, TypeScript, Vite |
-| Data and backend | SQL, PostgreSQL, Supabase |
-| Development workflow | Git, GitHub, VS Code, npm |
-| IT support | Windows, computer setup, troubleshooting and maintenance |
+| Desenvolvimento web | HTML5, CSS3, JavaScript, React, TypeScript, Vite |
+| Bases de dados e backend | SQL, PostgreSQL, Supabase |
+| Ferramentas de desenvolvimento | Git, GitHub, VS Code, npm |
+| Suporte informático | Windows, instalação, configuração, diagnóstico e manutenção |
 
-*This list reflects a mix of hands-on use and ongoing study. I’m continuously strengthening these skills.*
+*Estas competências combinam prática em projectos e aprendizagem contínua. Não apresento todas como domínio avançado.*
 
-## Featured projects
+## Projectos em destaque
 
 ### [Criativos Manager](https://github.com/WilsonRaposo017/Criativos_Manager)
-Commercial management platform in development for Criativos Digital Solutions.
 
-- Clients, products and services, commercial documents, payments and expenses.
-- React, TypeScript, Supabase and offline-first architecture.
-- Built around the needs of small businesses.
+Sistema de gestão comercial em desenvolvimento para a **Criativos Digital Solutions**.
 
-**Status:** active development. Commercial PDFs are not certified fiscal invoices.
+- Gestão de clientes, produtos e serviços.
+- Documentos comerciais, pagamentos, despesas e relatórios.
+- React, TypeScript, Supabase e arquitectura orientada para utilização offline.
 
-### [KFC Maculusso — Web concept](https://kfcmaculusso.lovable.app)
-A restaurant website concept created as a practical front-end exercise.
+**Estado:** em desenvolvimento activo. Os PDFs são documentos comerciais e não facturas fiscalmente certificadas.
 
-- Responsive web interface and page structure.
-- React, TypeScript, Vite and Tailwind-based tooling.
+### [KFC Maculusso — Conceito Web](https://kfcmaculusso.lovable.app)
 
-**Status:** online demonstration. Independent concept; not affiliated with or endorsed by KFC.
+Demonstração de um website para restaurante, criada como exercício prático de desenvolvimento front-end.
 
-### [HTML5 & CSS3](https://github.com/WilsonRaposo017/html5-e-css3)
-A learning repository for web foundations, page structure and styling.
+- Interface web e organização de páginas.
+- React, TypeScript, Vite e ferramentas de interface.
 
-**Status:** ongoing practice.
+**Estado:** demonstração online. Projecto independente, sem afiliação ou aprovação da marca KFC.
 
-## Current focus
+### [HTML5 e CSS3](https://github.com/WilsonRaposo017/html5-e-css3)
 
-- Building stronger foundations in programming and software engineering.
-- Improving database design and application architecture.
-- Developing useful web tools with clear documentation and maintainable code.
-- Combining technical support with digital solutions for real business needs.
+Repositório de estudo dos fundamentos da web: estrutura HTML, estilos CSS e construção de páginas.
 
-## Beyond the code
+**Estado:** prática e aprendizagem contínuas.
 
-I’m also developing **Criativos Digital Solutions**, an independent initiative focused on design, web, marketing, technical support and automation.
+## No que estou a trabalhar
 
-[Visit the page](https://web.facebook.com/CriativosDigitalSolutions/)
+- Reforçar lógica de programação e fundamentos de engenharia de software.
+- Melhorar modelação de bases de dados e arquitectura de aplicações.
+- Construir aplicações web úteis, documentadas e fáceis de manter.
+- Aplicar tecnologia na resolução de problemas reais de pessoas e negócios.
+
+## Além da programação
+
+Estou também a desenvolver a **Criativos Digital Solutions**, uma iniciativa independente que reúne serviços de design, web, marketing digital, suporte técnico e automação.
+
+[Conhecer a Criativos Digital Solutions](https://web.facebook.com/CriativosDigitalSolutions/)
 
 ---
 
 <div align="center">
 
-**Learn continuously. Build with purpose. Solve real problems.**
+**Aprender continuamente. Construir com propósito. Resolver problemas reais.**
 
 </div>
