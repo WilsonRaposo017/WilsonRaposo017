@@ -51,7 +51,7 @@ Alguns destes repositórios permanecem privados ou em desenvolvimento e, por iss
 
 ## Formação
 
-Estudante de Ciência da Computação no IMETRO. Actualmente reforço conhecimentos de programação, arquitectura de computadores, matemática discreta, bases de dados e desenvolvimento de aplicações.
+Tenho percurso académico em Ciência da Computação no IMETRO e continuo a reforçar conhecimentos de programação, arquitectura de computadores, matemática discreta, bases de dados e desenvolvimento de aplicações.
 
 ## Contacto e colaboração
 
