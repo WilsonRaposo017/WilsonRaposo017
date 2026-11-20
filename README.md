@@ -2,7 +2,7 @@
 
 # Wilson Raposo Mbala
 
- **Técnico de Informática | Desenvolvimento de Software | Soluções Digitais**
+**Técnico de Informática · Estudante de Ciência da Computação · Desenvolvimento de Software**
 
 Angola
 
@@ -12,58 +12,57 @@ Angola
 
 ---
 
-## Perfil
+## Sobre
 
-Sou Técnico de Informática e estudante de Ciência da Computação. Tenho interesse em desenvolvimento de software, tecnologias web, suporte técnico e automação.
+Trabalho com suporte informático e estudo desenvolvimento de software. Tenho interesse em aplicações web, sistemas de informação, bases de dados e automação.
 
-Uso projectos próprios e exercícios práticos para consolidar conhecimentos, experimentar ferramentas e desenvolver soluções para problemas concretos. Neste perfil procuro mostrar trabalho real, explicar o que cada projecto faz e documentar também o que ainda está em desenvolvimento.
+Uso este perfil para documentar projectos, exercícios e experiências práticas. Procuro explicar o que cada trabalho resolve, quais tecnologias utiliza e em que estado se encontra — incluindo as partes que ainda precisam de desenvolvimento.
 
-## Competências e áreas de interesse
+## Áreas de trabalho
 
-- **Suporte e sistemas:** diagnóstico, configuração e manutenção de ambientes informáticos.
-- **Desenvolvimento web:** HTML, CSS, JavaScript e exploração de frameworks modernas.
-- **Programação:** fundamentos de lógica e prática com Java e Python.
-- **Automação:** scripts e ferramentas para simplificar tarefas.
-- **Ferramentas de desenvolvimento:** Git, GitHub e ambientes de desenvolvimento.
+- **Suporte informático:** diagnóstico, configuração e manutenção de computadores e sistemas.
+- **Desenvolvimento web:** HTML, CSS, JavaScript e ferramentas modernas de desenvolvimento.
+- **Programação:** fundamentos de lógica e prática com diferentes linguagens.
+- **Bases de dados:** modelação, organização e consulta de dados.
+- **Ferramentas:** Git, GitHub e ambientes de desenvolvimento.
 
-As tecnologias listadas representam ferramentas que estudo ou utilizo em experiências práticas. Não significam, por si só, domínio profissional avançado.
+As tecnologias e áreas indicadas reflectem estudo e prática em diferentes níveis. Não representam, necessariamente, experiência profissional avançada.
 
-## Projectos em destaque
+## Projecto público
 
 ### Criativos Manager
-Aplicação de gestão comercial em desenvolvimento. Existe uma versão local experimental em HTML, CSS e JavaScript, com dados guardados no navegador. O produto mais amplo continua em evolução.
 
-[Ver repositório de trabalho](https://github.com/WilsonRaposo017/projetos)
+Plataforma de gestão comercial e financeira em desenvolvimento para a Criativos Digital Solutions. O projecto trabalha funcionalidades como clientes, documentos comerciais, pagamentos, despesas e organização financeira.
 
-### KFC Maculusso
-Demonstração de presença web desenvolvida como exercício prático. O projecto utiliza uma stack web moderna baseada em React e TypeScript.
+O sistema utiliza React, TypeScript, Supabase e armazenamento local para suporte a utilização offline. Os documentos gerados destinam-se à gestão comercial e não são apresentados como documentos fiscalmente certificados.
 
-[Ver repositório](https://github.com/WilsonRaposo017/kfcmaculusso) · [Abrir demonstração](https://kfcmaculusso.lovable.app)
+[Consultar o repositório](https://github.com/WilsonRaposo017/Criativos_Manager)
 
-Esta é uma demonstração independente e não representa um site oficial nem uma afiliação com a marca KFC.
+## Outros trabalhos
 
-### Laboratório de projectos
-Reúne experiências de desenvolvimento web, exercícios de programação e projectos pessoais de diferentes fases.
+Também tenho desenvolvido experiências nas áreas de:
 
-[Explorar repositório](https://github.com/WilsonRaposo017/projetos)
+- Websites institucionais e interfaces web.
+- Jogos de gestão com contexto angolano.
+- Exercícios de programação e fundamentos de front-end.
+- Protótipos e ferramentas para resolver necessidades práticas.
 
-### HTML e CSS
-Espaço de estudo para praticar estruturação, semântica e apresentação de páginas web.
+Alguns destes repositórios permanecem privados ou em desenvolvimento e, por isso, não estão apresentados como projectos públicos.
 
-[Ver repositório](https://github.com/WilsonRaposo017/html5-e-css3)
+## Formação
 
-## Formação e evolução
+Estudante de Ciência da Computação no IMETRO. Actualmente reforço conhecimentos de programação, arquitectura de computadores, matemática discreta, bases de dados e desenvolvimento de aplicações.
 
-Estudante de Ciência da Computação no IMETRO. Estou a reforçar os fundamentos de programação, arquitectura de computadores, matemática discreta e desenvolvimento de aplicações.
+## Contacto e colaboração
 
-## Colaboração
+Tenho interesse em colaborar em projectos práticos de suporte informático, desenvolvimento web e soluções digitais.
 
-Tenho interesse em projectos práticos nas áreas de suporte informático, desenvolvimento web e soluções digitais. Valorizo comunicação clara, aprendizagem contínua e documentação honesta do trabalho realizado.
+[GitHub](https://github.com/WilsonRaposo017) · [Criativos Digital Solutions](https://web.facebook.com/CriativosDigitalSolutions/)
 
 ---
 
 <div align="center">
 
-**Aprender com método. Construir com intenção. Resolver problemas reais.**
+Aprender com método. Construir com intenção. Resolver problemas reais.
 
 </div>
