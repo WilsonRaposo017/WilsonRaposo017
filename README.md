@@ -2,7 +2,7 @@
 
 # Wilson Raposo Mbala
 
-**Técnico de Informática · Estudante de Ciência da Computação · Desenvolvimento de Software**
+**Técnico de Informática · Desenvolvimento de Software**
 
 Angola
 
