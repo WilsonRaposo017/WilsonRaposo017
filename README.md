@@ -2,67 +2,74 @@
 
 # Wilson Raposo Mbala
 
-**Técnico de Informática · Desenvolvimento de Software**
+### IT Support · Web Development · Digital Solutions
 
-Angola
+Angola 🇦🇴
 
-[GitHub](https://github.com/WilsonRaposo017) · [Criativos Digital Solutions](https://web.facebook.com/CriativosDigitalSolutions/)
+[GitHub](https://github.com/WilsonRaposo017) · [Criativos Digital Solutions](https://web.facebook.com/CriativosDigitalSolutions/) · [Email](mailto:criativo.solution@gmail.com)
 
 </div>
 
 ---
 
-## Sobre
+## About
 
-Trabalho com suporte informático e estudo desenvolvimento de software. Tenho interesse em aplicações web, sistemas de informação, bases de dados e automação.
+I’m an IT technician building practical experience in software development and digital solutions. My work sits between technical support, web interfaces and tools that help people and small businesses organise their work.
 
-Uso este perfil para documentar projectos, exercícios e experiências práticas. Procuro explicar o que cada trabalho resolve, quais tecnologias utiliza e em que estado se encontra — incluindo as partes que ainda precisam de desenvolvimento.
+I use this profile to share projects, experiments and things I’m learning. I value clear documentation, useful features and honest project status over flashy demos.
 
-## Áreas de trabalho
+## What I work with
 
-- **Suporte informático:** diagnóstico, configuração e manutenção de computadores e sistemas.
-- **Desenvolvimento web:** HTML, CSS, JavaScript e ferramentas modernas de desenvolvimento.
-- **Programação:** fundamentos de lógica e prática com diferentes linguagens.
-- **Bases de dados:** modelação, organização e consulta de dados.
-- **Ferramentas:** Git, GitHub e ambientes de desenvolvimento.
+| Area | Tools and technologies |
+|---|---|
+| Web development | HTML5, CSS3, JavaScript, React, TypeScript, Vite |
+| Data and backend | SQL, PostgreSQL, Supabase |
+| Development workflow | Git, GitHub, VS Code, npm |
+| IT support | Windows, computer setup, troubleshooting and maintenance |
 
-As tecnologias e áreas indicadas reflectem estudo e prática em diferentes níveis. Não representam, necessariamente, experiência profissional avançada.
+*This list reflects a mix of hands-on use and ongoing study. I’m continuously strengthening these skills.*
 
-## Projecto público
+## Featured projects
 
-### Criativos Manager
+### [Criativos Manager](https://github.com/WilsonRaposo017/Criativos_Manager)
+Commercial management platform in development for Criativos Digital Solutions.
 
-Plataforma de gestão comercial e financeira em desenvolvimento para a Criativos Digital Solutions. O projecto trabalha funcionalidades como clientes, documentos comerciais, pagamentos, despesas e organização financeira.
+- Clients, products and services, commercial documents, payments and expenses.
+- React, TypeScript, Supabase and offline-first architecture.
+- Built around the needs of small businesses.
 
-O sistema utiliza React, TypeScript, Supabase e armazenamento local para suporte a utilização offline. Os documentos gerados destinam-se à gestão comercial e não são apresentados como documentos fiscalmente certificados.
+**Status:** active development. Commercial PDFs are not certified fiscal invoices.
 
-[Consultar o repositório](https://github.com/WilsonRaposo017/Criativos_Manager)
+### [KFC Maculusso — Web concept](https://kfcmaculusso.lovable.app)
+A restaurant website concept created as a practical front-end exercise.
 
-## Outros trabalhos
+- Responsive web interface and page structure.
+- React, TypeScript, Vite and Tailwind-based tooling.
 
-Também tenho desenvolvido experiências nas áreas de:
+**Status:** online demonstration. Independent concept; not affiliated with or endorsed by KFC.
 
-- Websites institucionais e interfaces web.
-- Jogos de gestão com contexto angolano.
-- Exercícios de programação e fundamentos de front-end.
-- Protótipos e ferramentas para resolver necessidades práticas.
+### [HTML5 & CSS3](https://github.com/WilsonRaposo017/html5-e-css3)
+A learning repository for web foundations, page structure and styling.
 
-Alguns destes repositórios permanecem privados ou em desenvolvimento e, por isso, não estão apresentados como projectos públicos.
+**Status:** ongoing practice.
 
-## Formação
+## Current focus
 
-Tenho percurso académico em Ciência da Computação no IMETRO e continuo a reforçar conhecimentos de programação, arquitectura de computadores, matemática discreta, bases de dados e desenvolvimento de aplicações.
+- Building stronger foundations in programming and software engineering.
+- Improving database design and application architecture.
+- Developing useful web tools with clear documentation and maintainable code.
+- Combining technical support with digital solutions for real business needs.
 
-## Contacto e colaboração
+## Beyond the code
 
-Tenho interesse em colaborar em projectos práticos de suporte informático, desenvolvimento web e soluções digitais.
+I’m also developing **Criativos Digital Solutions**, an independent initiative focused on design, web, marketing, technical support and automation.
 
-[GitHub](https://github.com/WilsonRaposo017) · [Criativos Digital Solutions](https://web.facebook.com/CriativosDigitalSolutions/)
+[Visit the page](https://web.facebook.com/CriativosDigitalSolutions/)
 
 ---
 
 <div align="center">
 
-Aprender com método. Construir com intenção. Resolver problemas reais.
+**Learn continuously. Build with purpose. Solve real problems.**
 
 </div>
